@@ -4,3 +4,6 @@ few more lines
 here
 common y gui test
 strochka voshla
+
+the seconfd line with seconfd
+craft badj
